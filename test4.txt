@@ -1,1 +1,2 @@
 First branch, modified in first branch
+Modified to test Git SCM polling from Jenkins
