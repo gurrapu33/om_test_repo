@@ -1,1 +1,2 @@
 second file
+Changes made in second file for GitDemoProj
